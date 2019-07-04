@@ -3,6 +3,8 @@
 The version uses an old version of OpenCV and thus causing a few compatibility issues.
 The best way to use this is to create a virtual environment on conda and follow these steps so that the installation is simpler.
 
+First install Anaconda and later follow the steps. 
+
 ```
 conda create --name TLDcv2 python=2.7
 conda install -c conda-forge opencv=2.4
