@@ -1,6 +1,6 @@
 # Introduction
 
-The version uses an old version of OpenCV and thus, there are a few compatibility issues.
+The version uses an old version of OpenCV and thus causing a few compatibility issues.
 The best way to use this is to create a virtual environment on conda and follow these steps so that the installation is simpler.
 
 ```
